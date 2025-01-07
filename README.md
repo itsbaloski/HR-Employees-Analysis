@@ -1,7 +1,7 @@
 # Human Resources Employee Analysis
 
 ## Overview
-This repository contains an analysis of employee data to uncover insights about demographics, work patterns, and turnover rates in the organization. The data analysis process involved using SQL for data cleaning and preparation, Power BI for visualization, and Python for further analysis.
+This repository contains an analysis of employee data to uncover insights about demographics, work patterns, and turnover rates in the organization. The data analysis process involved using SQL for data cleaning and preparation, Power BI for visualization.
 
 ## Files in the Repository
 
